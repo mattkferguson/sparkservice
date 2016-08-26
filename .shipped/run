@@ -1,0 +1,4 @@
+#!/bin/bash
+cp -r . /app2
+cd /app2
+./node_modules/.bin/gulp serve
